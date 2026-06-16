@@ -73,7 +73,7 @@ The goal of this project is to create a **lightweight credential management syst
 ## 🎥 Project Showcase
 
 ```
-[ YouTube Demo Link Here ]
+[ Not uploaded yet! ]
 ```
 
 ---
